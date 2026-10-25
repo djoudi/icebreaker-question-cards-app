@@ -1,0 +1,403 @@
+{
+  "title": "اختَر رقماً وشاركنا!",
+  "description": "لعبة جماعية لكسر الجليد والتعارف والتفكير الإبداعي في بيئة التكوين المهني.",
+  "language": "ar",
+  "direction": "rtl",
+  "gradingMode": "none",
+  "selectionMode": "random_number",
+  "numberRange": {
+    "min": 1,
+    "max": 20
+  },
+  "allowPass": true,
+  "allowQuestionReplacement": true,
+  "pointsPolicy": {
+    "enabled": true,
+    "pointsPerParticipation": 1,
+    "rule": "نقطة مشاركة اختيارية ومتساوية لمن يشارك، دون تقييم مضمون الإجابة. يمكن تعطيل النقاط كلياً."
+  },
+  "effectsPolicy": {
+    "stars": "occasional",
+    "confetti": "rare",
+    "onPass": "supportive",
+    "onNoResponse": "no_penalty"
+  },
+  "feedbackPool": [
+    "أحسنت، شكراً على المشاركة!",
+    "فكرة جميلة!",
+    "إجابة غير متوقعة، وهذا ما يجعل النقاش ممتعاً!",
+    "فريق مبدع!",
+    "شكراً على صراحتك ومشاركتك!",
+    "زاوية نظر تستحق النقاش!",
+    "جميل أن نرى اختلاف وجهات النظر!",
+    "المهم أننا نتبادل الأفكار!",
+    "مشاركة رائعة، لنسمع رأياً آخر!",
+    "لا بأس، يمكننا تمرير السؤال بكل أريحية."
+  ],
+  "questions": [
+    {
+      "id": "q01",
+      "number": 1,
+      "type": "open_ended",
+      "category": "icebreaker",
+      "question": "لو طلبنا منك أن تصف أسلوبك في العمل بكلمة واحدة، فما الكلمة التي تختارها؟",
+      "facilitationMode": "individual_round",
+      "suggestedDurationSeconds": 60,
+      "facilitatorTip": "ابدأ بنفسك بمثال بسيط، ثم امنح المشاركين فرصة الإجابة بكلمة واحدة فقط. لا تطلب تبريراً من أحد.",
+      "followUpPrompt": "ما الذي جعلك تختار هذه الكلمة؟ يمكنك الإجابة باختصار.",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكراً لك! كل أسلوب يضيف شيئاً إلى الفريق."
+    },
+    {
+      "id": "q02",
+      "number": 2,
+      "type": "open_ended",
+      "category": "icebreaker",
+      "question": "ما مهارة صغيرة تتمنى تعلمها هذه السنة، في العمل أو خارجه؟",
+      "facilitationMode": "individual_or_pairs",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "شجّع الإجابات العملية أو الممتعة، مثل تحسين العروض أو تعلم التصوير أو التحدث أمام الجمهور.",
+      "followUpPrompt": "ما أول خطوة بسيطة يمكن أن تساعدك على تعلمها؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "هدف جميل؛ أحياناً تبدأ المهارات الكبيرة بخطوة صغيرة."
+    },
+    {
+      "id": "q03",
+      "number": 3,
+      "type": "open_ended",
+      "category": "icebreaker",
+      "question": "ما الشيء البسيط الذي يجعل يومك المهني يبدأ بطريقة جيدة؟",
+      "facilitationMode": "individual_round",
+      "suggestedDurationSeconds": 60,
+      "facilitatorTip": "وجّه الحديث نحو العادات اليومية الإيجابية، دون السؤال عن ظروف شخصية أو خاصة.",
+      "followUpPrompt": "هل يمكن لفريق العمل أن يساعد على توفير هذا الشيء؟ كيف؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "تفصيل بسيط قد يصنع فرقاً كبيراً!"
+    },
+    {
+      "id": "q04",
+      "number": 4,
+      "type": "open_ended",
+      "category": "icebreaker",
+      "question": "إذا كان بإمكانك مشاركة زملائك حيلة عملية تسهّل العمل، فما الحيلة التي تختارها؟",
+      "facilitationMode": "individual_or_pairs",
+      "suggestedDurationSeconds": 90,
+      "facilitatorTip": "اقبل النصائح الصغيرة، مثل تنظيم الملفات أو اختصارات لوحة المفاتيح أو ترتيب المهام.",
+      "followUpPrompt": "هل يستطيع أحد المشاركين إضافة فكرة أخرى إلى هذه الحيلة؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "معلومة عملية تستحق أن نتبادلها!"
+    },
+    {
+      "id": "q05",
+      "number": 5,
+      "type": "open_ended",
+      "category": "icebreaker",
+      "question": "لو أردت أن تتعلم شيئاً من أحد زملائك في العمل، فما نوع الشيء الذي قد تختاره؟",
+      "facilitationMode": "pairs_then_share",
+      "suggestedDurationSeconds": 90,
+      "facilitatorTip": "ذكّر المشاركين أن المقصود تبادل الخبرات، وليس تقييم كفاءة الزملاء أو تسمية شخص بطريقة قد تحرجه.",
+      "followUpPrompt": "ما المهارة التي يمكن أن تتبادلها أنت بالمقابل؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "التعلّم من الزملاء فرصة متاحة للجميع."
+    },
+    {
+      "id": "q06",
+      "number": 6,
+      "type": "single_choice",
+      "category": "light_fun",
+      "question": "لو حصلت على استراحة إضافية مدتها 15 دقيقة، كيف تفضّل قضاءها؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "قهوة أو شاي وحديث خفيف"
+        },
+        {
+          "id": "b",
+          "label": "جولة قصيرة لتغيير الجو"
+        },
+        {
+          "id": "c",
+          "label": "هدوء قليل بعيداً عن الضجيج"
+        },
+        {
+          "id": "d",
+          "label": "لعبة أو تحدٍّ سريع مع الزملاء"
+        }
+      ],
+      "facilitationMode": "show_of_hands",
+      "suggestedDurationSeconds": 45,
+      "facilitatorTip": "اطلب التصويت برفع اليد أو اختيار الرمز على الشاشة. علّق بخفة على تنوع الاختيارات دون السخرية من أي اختيار.",
+      "followUpPrompt": "هل اختار أحدكم شيئاً مختلفاً عن بقية المجموعة؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "لكل شخص طريقته في تجديد النشاط!"
+    },
+    {
+      "id": "q07",
+      "number": 7,
+      "type": "open_ended",
+      "category": "light_fun",
+      "question": "لو تحوّل مكتبك أو قاعة التكوين إلى مكان من فيلم أو قصة ليوم واحد، فأي أجواء تختار؟",
+      "facilitationMode": "individual_or_group",
+      "suggestedDurationSeconds": 60,
+      "facilitatorTip": "شجّع الخيال: مختبر ابتكار، مكتبة سحرية، محطة فضائية أو مقهى هادئ. لا تشترط معرفة الأفلام.",
+      "followUpPrompt": "ما أول شيء ممتع ستضيفه إلى المكان؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "خيال جميل؛ يبدو أننا نستطيع تغيير أجواء القاعة!"
+    },
+    {
+      "id": "q08",
+      "number": 8,
+      "type": "single_choice",
+      "category": "light_fun",
+      "question": "في نشاط جماعي مفاجئ، أي دور قد تستمتع بتجربته؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "صاحب الأفكار الجديدة"
+        },
+        {
+          "id": "b",
+          "label": "منظّم الوقت والخطوات"
+        },
+        {
+          "id": "c",
+          "label": "من يشجّع الفريق ويرفع الحماس"
+        },
+        {
+          "id": "d",
+          "label": "من يجمع الأفكار ويعرض النتيجة"
+        }
+      ],
+      "facilitationMode": "quick_vote",
+      "suggestedDurationSeconds": 60,
+      "facilitatorTip": "وضّح أن الأدوار قابلة للتغيير وأنه لا يوجد دور أفضل من الآخر.",
+      "followUpPrompt": "ما دور آخر قد ترغب في تجربته ولو لمرة واحدة؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "كل دور يمكن أن يضيف قيمة إلى المجموعة!"
+    },
+    {
+      "id": "q09",
+      "number": 9,
+      "type": "open_ended",
+      "category": "light_fun",
+      "question": "لو كان ليومك المهني عنوان طريف مثل عنوان فيلم، ماذا سيكون؟ اختر عنواناً خفيفاً ومحترماً.",
+      "facilitationMode": "voluntary_round",
+      "suggestedDurationSeconds": 60,
+      "facilitatorTip": "قدّم مثالاً خيالياً من عندك. تجنّب تحويل الإجابة إلى نقد لأشخاص أو إدارات أو مواقف حساسة.",
+      "followUpPrompt": "ما المشهد الإيجابي الذي تتمنى أن يحدث في هذا الفيلم؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "عنوان مميز! قد نحتاج إلى ملصق لهذا الفيلم."
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "this_or_that",
+      "category": "preferences",
+      "question": "عندما تبدأ مهمة جديدة، أي أسلوب تفضّل عادةً؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "أبدأ وحدي، ثم أشارك النتيجة"
+        },
+        {
+          "id": "b",
+          "label": "أناقشها مع الفريق منذ البداية"
+        }
+      ],
+      "facilitationMode": "choose_and_discuss",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اطلب اختياراً سريعاً، ثم ذكّر المجموعة أن الاختيار قد يختلف حسب نوع المهمة.",
+      "followUpPrompt": "في أي نوع من المهام قد تغيّر اختيارك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "الأسلوب المناسب يعتمد أحياناً على طبيعة المهمة!"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "this_or_that",
+      "category": "preferences",
+      "question": "كيف تفضّل استقبال شرح فكرة جديدة في التكوين؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "مثال عملي أو تجربة مباشرة"
+        },
+        {
+          "id": "b",
+          "label": "شرح مختصر ثم نقاش وأسئلة"
+        }
+      ],
+      "facilitationMode": "choose_and_discuss",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "أكّد أن الطريقتين مفيدتان، وأن التنويع بينهما قد يناسب المجموعة.",
+      "followUpPrompt": "ما العنصر الذي يجعل الشرح واضحاً بالنسبة إليك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "اختلاف طرق التعلّم يساعدنا على تنويع أنشطتنا."
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "single_choice",
+      "category": "preferences",
+      "question": "إذا كان لديك نصف ساعة لإنجاز مهمة قصيرة، ما الذي يساعدك غالباً؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "خطة واضحة وخطوات مرتبة"
+        },
+        {
+          "id": "b",
+          "label": "البدء مباشرة ثم تعديل المسار"
+        },
+        {
+          "id": "c",
+          "label": "تبادل الأفكار مع زميل"
+        },
+        {
+          "id": "d",
+          "label": "تقسيم المهمة إلى أجزاء صغيرة"
+        }
+      ],
+      "facilitationMode": "quick_vote",
+      "suggestedDurationSeconds": 60,
+      "facilitatorTip": "قدّم السؤال بوصفه تفضيلاً شخصياً لا حكماً على الإنتاجية أو الكفاءة.",
+      "followUpPrompt": "هل توجد طريقة أخرى تنفعك في ظروف مختلفة؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "توجد طرق مختلفة للوصول إلى نتيجة جيدة."
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "this_or_that",
+      "category": "preferences",
+      "question": "في نشاط تكويني، أي تجربة تبدو لك أكثر متعة؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "تحدٍّ قصير بين فرق"
+        },
+        {
+          "id": "b",
+          "label": "ورشة مشتركة تتبادل فيها الفرق الأفكار"
+        }
+      ],
+      "facilitationMode": "choose_and_discuss",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "لا تحوّل النشاط إلى منافسة فعلية؛ الهدف فهم ما يحفّز المشاركين.",
+      "followUpPrompt": "كيف نجمع بين الحماس والتعاون في النشاط نفسه؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "الحماس والتعاون يمكن أن يجتمعا!"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "team_challenge",
+      "category": "creativity",
+      "question": "لدى فريقكم ثلاث دقائق لابتكار اسم وشعار قصير لفريق يساعد على تحسين العمل اليومي. ماذا ستختارون؟",
+      "facilitationMode": "small_group",
+      "suggestedDurationSeconds": 180,
+      "facilitatorTip": "قسّم المشاركين إلى مجموعات صغيرة. يكفي اسم وشعار من جملة قصيرة؛ لا تقيّم جودة التصميم أو اللغة.",
+      "followUpPrompt": "ما الفكرة التي أردتم أن يعكسها الشعار؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "فريق مبدع! شكراً على الفكرة المشتركة."
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "team_challenge",
+      "category": "creativity",
+      "question": "تخيّلوا أنكم تريدون جعل أول عشر دقائق من يوم التكوين أكثر نشاطاً، من دون ميزانية إضافية. اقترحوا فكرة واحدة قابلة للتنفيذ.",
+      "facilitationMode": "small_group_brainstorm",
+      "suggestedDurationSeconds": 150,
+      "facilitatorTip": "اطلب فكرة واحدة من كل مجموعة، وامنح الجميع وقتاً متساوياً. تجنّب الحكم على الفكرة بأنها مثالية أو سيئة.",
+      "followUpPrompt": "ما أبسط خطوة لتجربة فكرتكم في اللقاء القادم؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "فكرة عملية قد تبدأ بتغيير صغير!"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "open_ended",
+      "category": "creativity",
+      "question": "لو سُمح لكم بتغيير قاعدة واحدة في لعبة جماعية لتصبح أكثر تعاوناً ومتعة، فماذا ستغيّرون؟",
+      "facilitationMode": "pairs_or_small_group",
+      "suggestedDurationSeconds": 120,
+      "facilitatorTip": "ذكّر المشاركين أن المطلوب اقتراح تخيلي، وليس انتقاد قواعد المؤسسة أو أنظمتها.",
+      "followUpPrompt": "كيف سيجعل هذا التغيير مشاركة الجميع أسهل؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "اقتراح يستحق التجربة في لعبة قادمة!"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "team_challenge",
+      "category": "teamwork",
+      "question": "تحدٍّ سريع: ابتكروا خلال دقيقتين ثلاث قواعد تجعل النقاش داخل الفريق مريحاً، ويحصل فيه الجميع على فرصة للكلام.",
+      "facilitationMode": "small_group",
+      "suggestedDurationSeconds": 150,
+      "facilitatorTip": "اطلب قواعد سلوكية بسيطة مثل عدم المقاطعة، وتناوب الحديث، واحترام اختلاف الآراء. لا تفرض قائمة محددة.",
+      "followUpPrompt": "أي قاعدة من قواعدكم يمكن أن نطبّقها في هذه الجلسة من الآن؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "فريق متعاون! القواعد الجيدة تبدأ باتفاق بسيط."
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "team_challenge",
+      "category": "teamwork",
+      "question": "تخيّلوا أن فريقكم ينظّم نشاطاً، ولدى كل عضو فكرة مختلفة. كيف ستصلون إلى خطة مشتركة خلال ثلاث دقائق؟",
+      "facilitationMode": "small_group_roleplay",
+      "suggestedDurationSeconds": 180,
+      "facilitatorTip": "شجّعوا الاستماع، وتجميع الأفكار المتقاربة، واختيار خطوة قابلة للتجربة. لا تجعلوا الهدف إثبات تفوق فكرة على أخرى.",
+      "followUpPrompt": "كيف تتأكدون أن كل عضو شعر بأن رأيه قد سُمع؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "عمل جماعي جميل؛ الاستماع جزء أساسي من التعاون."
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "open_ended",
+      "category": "training_expectations",
+      "question": "ما الشيء الذي تتمنى أن تخرج به من هذه الدورة، حتى لو كان فكرة واحدة فقط؟",
+      "facilitationMode": "individual_or_pairs",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "استقبل التوقعات دون وعود غير مؤكدة. دوّن الموضوعات المتكررة لتكييف الأمثلة والأنشطة قدر الإمكان.",
+      "followUpPrompt": "ما النشاط الذي قد يساعدك على تحقيق هذا التوقع؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكراً! سنستفيد من توقعاتكم في جعل الدورة أكثر ملاءمة."
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "open_ended",
+      "category": "training_expectations",
+      "question": "ما الذي يجعل تجربة التكوين ممتعة ومفيدة بالنسبة إليك: طريقة الشرح، الأنشطة، النقاش، الأمثلة العملية، أم شيء آخر؟",
+      "facilitationMode": "voluntary_round",
+      "suggestedDurationSeconds": 90,
+      "facilitatorTip": "يمكن للمشاركين ذكر أكثر من عنصر. وضّح أن الإجابة تساعد على تحسين التجربة وليست تقييماً للمدرب.",
+      "followUpPrompt": "ما اقتراح بسيط يمكن أن نجرّبه اليوم لجعل الجلسة أكثر تفاعلاً؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكراً لمساهمتك في تحسين تجربة التكوين للجميع."
+    }
+  ]
+}
