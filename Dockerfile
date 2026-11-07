@@ -9,7 +9,7 @@ RUN useradd --system --uid 10001 --create-home appuser
 
 COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
-COPY --chown=appuser:appuser app.py index.html general-questions.json cyber-questions.json institute-logo.svg ./
+COPY --chown=appuser:appuser app.py index.html general-questions.json cyber-questions.json day1-questions.json school-logo.png ./
 
 USER appuser
 EXPOSE 5003
