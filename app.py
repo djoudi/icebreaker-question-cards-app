@@ -8,6 +8,7 @@ APP_DIR = Path(__file__).resolve().parent
 BANKS = {
     "general": json.loads((APP_DIR / "general-questions.json").read_text(encoding="utf-8")),
     "cyber": json.loads((APP_DIR / "cyber-questions.json").read_text(encoding="utf-8")),
+    "day1": json.loads((APP_DIR / "day1-questions.json").read_text(encoding="utf-8")),
 }
 app = Flask(__name__, static_folder=None)
 
@@ -17,9 +18,9 @@ def index():
     return send_from_directory(APP_DIR, "index.html")
 
 
-@app.get("/institute-logo.svg")
-def institute_logo():
-    return send_from_directory(APP_DIR, "institute-logo.svg", mimetype="image/svg+xml")
+@app.get("/school-logo.png")
+def school_logo():
+    return send_from_directory(APP_DIR, "school-logo.png", mimetype="image/png")
 
 
 @app.get("/api/banks")

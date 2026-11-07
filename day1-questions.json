@@ -1,0 +1,1288 @@
+{
+  "title": "كسر الجليد – اليوم الأول | الأمن السيبراني لغير التقنيين في عصر الذكاء الاصطناعي",
+  "description": "بنك مستقل من 60 بطاقة شفوية تفاعلية لموظفي الجماعات المحلية والبلديات الجزائرية؛ يُستخدم في افتتاح اليوم الأول دون جمع أسماء أو تسجيل إجابات. يُنصح باختيار 6–8 بطاقات في 15 دقيقة، مع تنويع الأنواع.",
+  "language": "ar",
+  "direction": "rtl",
+  "gradingMode": "formative",
+  "selectionMode": "random_number",
+  "numberRange": {
+    "min": 1,
+    "max": 60
+  },
+  "allowPass": true,
+  "allowQuestionReplacement": true,
+  "questions": [
+    {
+      "id": "ice_d1_001",
+      "number": 1,
+      "type": "open_ended",
+      "category": "مواقف_يومية",
+      "question": "إذا نسيت كلمة مرور حاسوب العمل صباحًا، ما أول تصرف يخطر ببالك؟",
+      "facilitationMode": "individual_round",
+      "suggestedDurationSeconds": 60,
+      "facilitatorTip": "شجّع إجابات خفيفة ولا تطلب مشاركة كلمات مرور فعلية.",
+      "followUpPrompt": "ما القناة المعتمدة لاستعادة الحساب؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_002",
+      "number": 2,
+      "type": "open_ended",
+      "category": "مواقف_يومية",
+      "question": "ما أكثر جهاز تستخدمه يوميًا في العمل: الحاسوب أم الهاتف أم الطابعة؟ ولماذا؟",
+      "facilitationMode": "individual_round",
+      "suggestedDurationSeconds": 60,
+      "facilitatorTip": "استعمل الإجابات لإظهار تنوع نقاط التعامل مع المعلومات.",
+      "followUpPrompt": "أي جهاز منها يحتاج انتباهًا أمنيًا أكبر في رأيك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_003",
+      "number": 3,
+      "type": "open_ended",
+      "category": "مواقف_يومية",
+      "question": "ما أول شيء ستقلق بشأنه لو فقدت هاتفك اليوم؟",
+      "facilitationMode": "individual_round",
+      "suggestedDurationSeconds": 60,
+      "facilitatorTip": "تجنب طلب تفاصيل شخصية أو حساسة.",
+      "followUpPrompt": "ما إجراء بسيط يقلل الضرر؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_004",
+      "number": 4,
+      "type": "open_ended",
+      "category": "مواقف_يومية",
+      "question": "هل سبق أن تلقيت رسالة بدت مستعجلة جدًا؟ ما الذي جعلك تتردد؟",
+      "facilitationMode": "individual_round",
+      "suggestedDurationSeconds": 60,
+      "facilitatorTip": "لا تطلب من المتدرب كشف رسالة حقيقية أو أسماء.",
+      "followUpPrompt": "كيف نميز الاستعجال الحقيقي من الضغط المصطنع؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_005",
+      "number": 5,
+      "type": "open_ended",
+      "category": "مواقف_يومية",
+      "question": "في رأيك، لماذا يختار بعض الناس كلمات مرور سهلة جدًا؟",
+      "facilitationMode": "individual_round",
+      "suggestedDurationSeconds": 60,
+      "facilitatorTip": "لا تحوّل النقاش إلى لوم المشاركين.",
+      "followUpPrompt": "ما البديل العملي الذي يسهل التذكر ويحسن الحماية؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_006",
+      "number": 6,
+      "type": "open_ended",
+      "category": "بيئة_البلدية",
+      "question": "في مصلحة الحالة المدنية، ما نوع المعلومات التي ينبغي حمايتها بعناية؟",
+      "facilitationMode": "individual_round",
+      "suggestedDurationSeconds": 60,
+      "facilitatorTip": "اطلب أمثلة عامة دون ذكر بيانات مواطنين حقيقيين.",
+      "followUpPrompt": "من يحتاج حق الاطلاع عليها بحكم عمله؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_007",
+      "number": 7,
+      "type": "open_ended",
+      "category": "بيئة_البلدية",
+      "question": "ما الذي يمكن أن يحدث إذا تُرك حاسوب شباك الاستقبال مفتوحًا أثناء غياب الموظف؟",
+      "facilitationMode": "individual_round",
+      "suggestedDurationSeconds": 60,
+      "facilitatorTip": "اربط المخاطر بالوصول غير المصرح به.",
+      "followUpPrompt": "ما التصرف الوقائي الأسرع؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_008",
+      "number": 8,
+      "type": "open_ended",
+      "category": "بيئة_البلدية",
+      "question": "هل حماية المعلومات مسؤولية مصلحة الإعلام الآلي وحدها؟ لماذا؟",
+      "facilitationMode": "individual_round",
+      "suggestedDurationSeconds": 60,
+      "facilitatorTip": "استخرج أدوار الموظف غير التقني.",
+      "followUpPrompt": "ما مسؤوليتك الشخصية في مكتبك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_009",
+      "number": 9,
+      "type": "open_ended",
+      "category": "بيئة_البلدية",
+      "question": "ما الفرق بين مساعدة زميل في عمله وإعطائه كلمة مرور حسابك؟",
+      "facilitationMode": "individual_round",
+      "suggestedDurationSeconds": 60,
+      "facilitatorTip": "شجع التفريق بين التعاون ومشاركة الصلاحيات.",
+      "followUpPrompt": "كيف تساعد زميلك دون مشاركة حسابك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_010",
+      "number": 10,
+      "type": "open_ended",
+      "category": "الذكاء_الاصطناعي",
+      "question": "ما أول استخدام مفيد تتخيله للذكاء الاصطناعي في عمل إداري يومي؟",
+      "facilitationMode": "individual_round",
+      "suggestedDurationSeconds": 60,
+      "facilitatorTip": "لا تطلب أمثلة تحتوي بيانات حقيقية.",
+      "followUpPrompt": "ما الذي ينبغي مراجعته قبل اعتماد الناتج؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_011",
+      "number": 11,
+      "type": "open_ended",
+      "category": "الذكاء_الاصطناعي",
+      "question": "هل تثق تلقائيًا في نص إداري يبدو رسميًا وصاغته أداة ذكاء اصطناعي؟ لماذا؟",
+      "facilitationMode": "individual_round",
+      "suggestedDurationSeconds": 60,
+      "facilitatorTip": "دع المشاركين يعبرون عن درجة الثقة دون إحراج.",
+      "followUpPrompt": "كيف نتحقق من مرجع قانوني ورد في النص؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_012",
+      "number": 12,
+      "type": "open_ended",
+      "category": "اكتشاف_المخاطر",
+      "question": "إذا لاحظت تصرفًا غريبًا على حاسوب العمل، لمن تبلغ أولًا؟",
+      "facilitationMode": "individual_round",
+      "suggestedDurationSeconds": 60,
+      "facilitatorTip": "وجّه نحو قنوات الإبلاغ المعتمدة بدل الحلول التقنية العشوائية.",
+      "followUpPrompt": "ما المعلومات المفيدة عند الإبلاغ؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_013",
+      "number": 13,
+      "type": "this_or_that",
+      "category": "قرارات_سريعة",
+      "question": "رسالة واتساب من رقم مجهول تدّعي أنها من مسؤول وتطلب ملفًا إداريًا فورًا: ماذا تختار؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "أرسل الملف فورًا"
+        },
+        {
+          "id": "b",
+          "label": "أتحقق عبر قناة رسمية معروفة"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "ادعاء الصفة والاستعجال لا يثبتان الهوية.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اعرض الخيارين واطلب سبب الاختيار قبل كشف الإجابة.",
+      "followUpPrompt": "ما قناة التحقق المتاحة في بلديتكم؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_014",
+      "number": 14,
+      "type": "this_or_that",
+      "category": "قرارات_سريعة",
+      "question": "وجدت مفتاح USB مجهولًا في قاعة الاجتماعات: ماذا تفعل؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "أوصله بالحاسوب لمعرفة صاحبه"
+        },
+        {
+          "id": "b",
+          "label": "أسلمه للجهة المختصة دون تشغيله"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "وسائط التخزين المجهولة قد تحمل برمجيات ضارة.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اعرض الخيارين واطلب سبب الاختيار قبل كشف الإجابة.",
+      "followUpPrompt": "كيف تعلن عن العثور عليه دون تعريض الأجهزة للخطر؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_015",
+      "number": 15,
+      "type": "this_or_that",
+      "category": "قرارات_سريعة",
+      "question": "زميل يطلب رمز التحقق الذي وصلك في رسالة: هل تشاركه؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "أشاركه لأنه زميل"
+        },
+        {
+          "id": "b",
+          "label": "لا أشاركه وأتحقق من الطلب"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "رمز التحقق مخصص لصاحب الحساب ولا يشارك.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اعرض الخيارين واطلب سبب الاختيار قبل كشف الإجابة.",
+      "followUpPrompt": "ما البديل إذا احتاج الزميل إلى مساعدة؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_016",
+      "number": 16,
+      "type": "this_or_that",
+      "category": "قرارات_سريعة",
+      "question": "عند مغادرة المكتب لدقائق، ماذا تفعل بالحاسوب؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "أترك الجلسة مفتوحة"
+        },
+        {
+          "id": "b",
+          "label": "أقفل الشاشة"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "قفل الشاشة يقلل احتمال وصول الآخرين إلى المعلومات.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اعرض الخيارين واطلب سبب الاختيار قبل كشف الإجابة.",
+      "followUpPrompt": "متى تصبح هذه العادة تلقائية؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_017",
+      "number": 17,
+      "type": "this_or_that",
+      "category": "قرارات_سريعة",
+      "question": "وصلك رابط لتحديث حساب العمل من بريد غير معتاد: ماذا تختار؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "أفتح الرابط لأن الطلب عاجل"
+        },
+        {
+          "id": "b",
+          "label": "أتحقق عبر القناة الرسمية"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "الروابط العاجلة قد تستخدم في التصيد.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اعرض الخيارين واطلب سبب الاختيار قبل كشف الإجابة.",
+      "followUpPrompt": "ما علامة تدفعك للشك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_018",
+      "number": 18,
+      "type": "this_or_that",
+      "category": "قرارات_سريعة",
+      "question": "طلب مواطن وثيقة تخص شخصًا آخر دون إثبات صفة: هل تسلمها؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "أسلمها لتسريع الخدمة"
+        },
+        {
+          "id": "b",
+          "label": "أتحقق من الصفة والإجراء المعتمد"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "حماية بيانات المواطنين تقتضي التحقق من أهلية الحصول على الوثائق.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اعرض الخيارين واطلب سبب الاختيار قبل كشف الإجابة.",
+      "followUpPrompt": "كيف تشرح الرفض المؤقت بلطف؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_019",
+      "number": 19,
+      "type": "this_or_that",
+      "category": "قرارات_سريعة",
+      "question": "وصل تسجيل صوتي منسوب لمسؤول يطلب إجراء غير معتاد: ماذا تفعل؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "أنفذ لأن الصوت مألوف"
+        },
+        {
+          "id": "b",
+          "label": "أتحقق من الطلب رسميًا"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "يمكن تقليد الأصوات أو اقتطاع التسجيلات.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اعرض الخيارين واطلب سبب الاختيار قبل كشف الإجابة.",
+      "followUpPrompt": "ما وسيلة التحقق المستقلة؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_020",
+      "number": 20,
+      "type": "this_or_that",
+      "category": "قرارات_سريعة",
+      "question": "تريد تلخيص ملف يحوي بيانات مواطنين بأداة ذكاء اصطناعي عامة: ماذا تفعل؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "أرفع الملف كما هو"
+        },
+        {
+          "id": "b",
+          "label": "أستخدم فقط طريقة معتمدة تحمي البيانات"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "لا يجوز إدخال بيانات حساسة في خدمة غير معتمدة.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اعرض الخيارين واطلب سبب الاختيار قبل كشف الإجابة.",
+      "followUpPrompt": "هل يمكن تجربة المهمة ببيانات افتراضية؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_021",
+      "number": 21,
+      "type": "this_or_that",
+      "category": "اكتشاف_المخاطر",
+      "question": "ظهرت رسالة فدية على جهاز العمل: ماذا تختار؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "أتبع تعليمات الرسالة"
+        },
+        {
+          "id": "b",
+          "label": "أبلغ المختصين فورًا دون تفاوض فردي"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "التعامل الفردي مع المهاجمين يزيد المخاطر.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اعرض الخيارين واطلب سبب الاختيار قبل كشف الإجابة.",
+      "followUpPrompt": "ما الذي يجب تجنب فعله على الجهاز؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_022",
+      "number": 22,
+      "type": "this_or_that",
+      "category": "اكتشاف_المخاطر",
+      "question": "نُشر خبر غير مؤكد عن تسريب بيانات البلدية: ماذا تختار؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "أعيد نشره لتحذير الجميع"
+        },
+        {
+          "id": "b",
+          "label": "أتحقق وألتزم بقنوات التواصل المعتمدة"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "نشر ادعاءات غير متحققة قد يسبب ضررًا إضافيًا.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اعرض الخيارين واطلب سبب الاختيار قبل كشف الإجابة.",
+      "followUpPrompt": "من المخول بإصدار توضيح رسمي؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_023",
+      "number": 23,
+      "type": "this_or_that",
+      "category": "مواقف_يومية",
+      "question": "شبكة Wi-Fi عامة متاحة أثناء تنقلك: ماذا تختار لفتح نظام العمل؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "أتصل بها دون مراجعة"
+        },
+        {
+          "id": "b",
+          "label": "أتبع سياسة الوصول الآمن المعتمدة"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "الوصول المهني ينبغي أن يتبع سياسة المؤسسة.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اعرض الخيارين واطلب سبب الاختيار قبل كشف الإجابة.",
+      "followUpPrompt": "ما الذي تسأل عنه مصلحة الإعلام الآلي؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_024",
+      "number": 24,
+      "type": "this_or_that",
+      "category": "بيئة_البلدية",
+      "question": "اقترح زميل نسخ ملفات العمل إلى حاسوبه الشخصي لتسريع الخدمة: ماذا تختار؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "أوافق لتوفير الوقت"
+        },
+        {
+          "id": "b",
+          "label": "ألتزم بالأجهزة والإجراءات المعتمدة"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "الأجهزة الشخصية غير المعتمدة قد تعرض البيانات للخطر.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اعرض الخيارين واطلب سبب الاختيار قبل كشف الإجابة.",
+      "followUpPrompt": "ما بديل استمرار العمل؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_025",
+      "number": 25,
+      "type": "single_choice",
+      "category": "بيئة_البلدية",
+      "question": "أي تصرف يحمي حساب الموظف على حاسوب مشترك؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "حساب واحد للجميع"
+        },
+        {
+          "id": "b",
+          "label": "قفل الجلسة واستعمال حساب فردي"
+        },
+        {
+          "id": "c",
+          "label": "كتابة كلمة المرور قرب الشاشة"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "الحساب الفردي وقفل الجلسة يحسنان ضبط الوصول.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اطلب من مشارك تبرير الاختيار، ثم اكشف التفسير في جملة واحدة.",
+      "followUpPrompt": "ما المثال المشابه في مكتبك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_026",
+      "number": 26,
+      "type": "single_choice",
+      "category": "اكتشاف_المخاطر",
+      "question": "أي رسالة تستحق التحقق قبل فتح مرفقها؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "رسالة غير متوقعة تطلب فتح ملف عاجل"
+        },
+        {
+          "id": "b",
+          "label": "إشعار داخلي تم التحقق منه"
+        },
+        {
+          "id": "c",
+          "label": "رسالة خالية من روابط أو مرفقات"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "المرفق غير المتوقع مع الاستعجال علامة تستدعي التحقق.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اطلب من مشارك تبرير الاختيار، ثم اكشف التفسير في جملة واحدة.",
+      "followUpPrompt": "ما المثال المشابه في مكتبك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_027",
+      "number": 27,
+      "type": "single_choice",
+      "category": "بيئة_البلدية",
+      "question": "ما التصرف المناسب عند رؤية وثائق مواطنين مكشوفة بعد انتهاء الدوام؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "تركها كما هي"
+        },
+        {
+          "id": "b",
+          "label": "تصويرها لإرسالها للزملاء"
+        },
+        {
+          "id": "c",
+          "label": "حفظها وفق إجراءات المكتب"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "تأمين الوثائق الورقية جزء من حماية المعلومات.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اطلب من مشارك تبرير الاختيار، ثم اكشف التفسير في جملة واحدة.",
+      "followUpPrompt": "ما المثال المشابه في مكتبك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_028",
+      "number": 28,
+      "type": "single_choice",
+      "category": "اكتشاف_المخاطر",
+      "question": "ما أفضل إجراء إذا ضغطت بالخطأ على رابط مشبوه؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "أخفي الأمر"
+        },
+        {
+          "id": "b",
+          "label": "أبلغ الجهة المختصة وأوضح ما حدث"
+        },
+        {
+          "id": "c",
+          "label": "أرسل الرابط للزملاء"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "الإبلاغ المبكر يساعد على تقييم الحادث واحتوائه.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اطلب من مشارك تبرير الاختيار، ثم اكشف التفسير في جملة واحدة.",
+      "followUpPrompt": "ما المثال المشابه في مكتبك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_029",
+      "number": 29,
+      "type": "single_choice",
+      "category": "اكتشاف_المخاطر",
+      "question": "أي معلومة مفيدة عند الإبلاغ عن رسالة مشبوهة؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "وقت وصولها وطبيعة الطلب"
+        },
+        {
+          "id": "b",
+          "label": "كلمة مرور حسابك"
+        },
+        {
+          "id": "c",
+          "label": "رمز التحقق السري"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "تفاصيل الحدث تفيد التحقيق دون كشف أسرار الحساب.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اطلب من مشارك تبرير الاختيار، ثم اكشف التفسير في جملة واحدة.",
+      "followUpPrompt": "ما المثال المشابه في مكتبك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_030",
+      "number": 30,
+      "type": "single_choice",
+      "category": "بيئة_البلدية",
+      "question": "أي حالة تعد وصولًا غير مناسب للمعلومات؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "الاطلاع على ملف ضمن المهام"
+        },
+        {
+          "id": "b",
+          "label": "فتح ملف مواطن بدافع الفضول"
+        },
+        {
+          "id": "c",
+          "label": "تطبيق تعليمات حفظ الوثائق"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "الفضول لا يمنح صلاحية الاطلاع.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اطلب من مشارك تبرير الاختيار، ثم اكشف التفسير في جملة واحدة.",
+      "followUpPrompt": "ما المثال المشابه في مكتبك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_031",
+      "number": 31,
+      "type": "single_choice",
+      "category": "مواقف_يومية",
+      "question": "ما الخيار الأفضل لإنشاء كلمة مرور قوية؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "اسم البلدية وسنة الميلاد"
+        },
+        {
+          "id": "b",
+          "label": "كلمة قصيرة شائعة"
+        },
+        {
+          "id": "c",
+          "label": "عبارة مرور طويلة وفريدة"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "الطول والتفرد يصعبان التخمين.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اطلب من مشارك تبرير الاختيار، ثم اكشف التفسير في جملة واحدة.",
+      "followUpPrompt": "ما المثال المشابه في مكتبك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_032",
+      "number": 32,
+      "type": "single_choice",
+      "category": "مواقف_يومية",
+      "question": "ماذا تضيف المصادقة متعددة العوامل؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "طبقة تحقق إضافية"
+        },
+        {
+          "id": "b",
+          "label": "إلغاء الحاجة للحذر"
+        },
+        {
+          "id": "c",
+          "label": "إتاحة مشاركة الحساب"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "تضيف عاملًا آخر لكنها لا تلغي ضرورة الحذر.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اطلب من مشارك تبرير الاختيار، ثم اكشف التفسير في جملة واحدة.",
+      "followUpPrompt": "ما المثال المشابه في مكتبك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_033",
+      "number": 33,
+      "type": "single_choice",
+      "category": "اكتشاف_المخاطر",
+      "question": "أي علامة قد تدل على تصيد؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "طلب عاجل لبيانات سرية"
+        },
+        {
+          "id": "b",
+          "label": "عنوان معروف وحده"
+        },
+        {
+          "id": "c",
+          "label": "وجود شعار المؤسسة"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "الاستعجال وطلب الأسرار من علامات التصيد.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اطلب من مشارك تبرير الاختيار، ثم اكشف التفسير في جملة واحدة.",
+      "followUpPrompt": "ما المثال المشابه في مكتبك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_034",
+      "number": 34,
+      "type": "single_choice",
+      "category": "بيئة_البلدية",
+      "question": "من المخول بإرسال بيانات المواطنين إلى جهة خارجية؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "أي موظف يملك نسخة"
+        },
+        {
+          "id": "b",
+          "label": "من تسمح له الصلاحيات والإجراءات بذلك"
+        },
+        {
+          "id": "c",
+          "label": "أي شخص يطلبها هاتفيا"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "التسليم يخضع للصلاحيات والأساس والإجراءات المعتمدة.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اطلب من مشارك تبرير الاختيار، ثم اكشف التفسير في جملة واحدة.",
+      "followUpPrompt": "ما المثال المشابه في مكتبك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_035",
+      "number": 35,
+      "type": "single_choice",
+      "category": "الذكاء_الاصطناعي",
+      "question": "ما التعامل الصحيح مع نص قانوني تقترحه أداة ذكاء اصطناعي؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "اعتماده فورًا"
+        },
+        {
+          "id": "b",
+          "label": "التحقق من المرجع في مصدر رسمي"
+        },
+        {
+          "id": "c",
+          "label": "إرساله دون قراءة"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "قد تنتج الأدوات مراجع غير دقيقة أو غير موجودة.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اطلب من مشارك تبرير الاختيار، ثم اكشف التفسير في جملة واحدة.",
+      "followUpPrompt": "ما المثال المشابه في مكتبك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_036",
+      "number": 36,
+      "type": "single_choice",
+      "category": "الذكاء_الاصطناعي",
+      "question": "كيف تتعامل مع فيديو منسوب لرئيس البلدية يعلن تغيير إجراء؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "أعتمد الخبر فورًا"
+        },
+        {
+          "id": "b",
+          "label": "أنشره على المجموعة"
+        },
+        {
+          "id": "c",
+          "label": "أتحقق عبر قناة رسمية"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "المحتوى المرئي قد يكون مضللًا أو معدلًا.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اطلب من مشارك تبرير الاختيار، ثم اكشف التفسير في جملة واحدة.",
+      "followUpPrompt": "ما المثال المشابه في مكتبك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_037",
+      "number": 37,
+      "type": "single_choice",
+      "category": "الذكاء_الاصطناعي",
+      "question": "أي استخدام للذكاء الاصطناعي أقل مخاطرة في تدريب عملي؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "بيانات مواطنين حقيقية"
+        },
+        {
+          "id": "b",
+          "label": "بيانات افتراضية غير مرتبطة بأشخاص"
+        },
+        {
+          "id": "c",
+          "label": "ملفات الموظفين الكاملة"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "البيانات الافتراضية تقلل مخاطر كشف المعطيات.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اطلب من مشارك تبرير الاختيار، ثم اكشف التفسير في جملة واحدة.",
+      "followUpPrompt": "ما المثال المشابه في مكتبك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_038",
+      "number": 38,
+      "type": "single_choice",
+      "category": "اكتشاف_المخاطر",
+      "question": "ما أول جهة تلجأ إليها عند الاشتباه بحادث على جهاز العمل؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "جهة الدعم المعتمدة في المؤسسة"
+        },
+        {
+          "id": "b",
+          "label": "مجموعة عامة على الإنترنت"
+        },
+        {
+          "id": "c",
+          "label": "مجهول يعرض إصلاحًا سريعًا"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "التصعيد الداخلي المنظم يحد من القرارات العشوائية.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اطلب من مشارك تبرير الاختيار، ثم اكشف التفسير في جملة واحدة.",
+      "followUpPrompt": "ما المثال المشابه في مكتبك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_039",
+      "number": 39,
+      "type": "single_choice",
+      "category": "مواقف_يومية",
+      "question": "ما الممارسة الصحيحة قبل نشر صورة من المكتب؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "نشرها دون فحص"
+        },
+        {
+          "id": "b",
+          "label": "التأكد من عدم ظهور بيانات أو وثائق حساسة"
+        },
+        {
+          "id": "c",
+          "label": "إظهار الشاشة بوضوح"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "قد تكشف الخلفية معلومات غير مقصودة.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اطلب من مشارك تبرير الاختيار، ثم اكشف التفسير في جملة واحدة.",
+      "followUpPrompt": "ما المثال المشابه في مكتبك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_040",
+      "number": 40,
+      "type": "single_choice",
+      "category": "بيئة_البلدية",
+      "question": "أي خيار يساعد على استمرار الخدمة عند تعطل النظام؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "نسخ الملفات لجهاز شخصي"
+        },
+        {
+          "id": "b",
+          "label": "اتباع خطة العمل البديلة المعتمدة"
+        },
+        {
+          "id": "c",
+          "label": "فتح حساب زميل غائب"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "استمرارية الخدمة لا تبرر تجاوز الضوابط.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اطلب من مشارك تبرير الاختيار، ثم اكشف التفسير في جملة واحدة.",
+      "followUpPrompt": "ما المثال المشابه في مكتبك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_041",
+      "number": 41,
+      "type": "single_choice",
+      "category": "اكتشاف_المخاطر",
+      "question": "ما التصرف المناسب مع ملف Excel غير متوقع يطلب تفعيل وحدات الماكرو؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "تفعيلها مباشرة"
+        },
+        {
+          "id": "b",
+          "label": "التحقق من المصدر والرجوع للمختصين"
+        },
+        {
+          "id": "c",
+          "label": "إرساله لجميع الموظفين"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "وحدات الماكرو قد تُستغل، ولا ينبغي تفعيلها دون تحقق.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اطلب من مشارك تبرير الاختيار، ثم اكشف التفسير في جملة واحدة.",
+      "followUpPrompt": "ما المثال المشابه في مكتبك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_042",
+      "number": 42,
+      "type": "single_choice",
+      "category": "الذكاء_الاصطناعي",
+      "question": "من يتحمل مسؤولية اعتماد مراسلة إدارية صاغها الذكاء الاصطناعي؟",
+      "options": [
+        {
+          "id": "a",
+          "label": "الأداة نفسها"
+        },
+        {
+          "id": "b",
+          "label": "الموظف والجهات المخولة بالمراجعة والاعتماد"
+        },
+        {
+          "id": "c",
+          "label": "لا أحد لأنها مسودة"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "المراجعة البشرية والصلاحيات الإدارية تبقى ضرورية.",
+      "facilitationMode": "group_discussion",
+      "suggestedDurationSeconds": 75,
+      "facilitatorTip": "اطلب من مشارك تبرير الاختيار، ثم اكشف التفسير في جملة واحدة.",
+      "followUpPrompt": "ما المثال المشابه في مكتبك؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "شكرًا على المشاركة؛ الأهم هو التفكير في التصرف الآمن."
+    },
+    {
+      "id": "ice_d1_043",
+      "number": 43,
+      "type": "team_challenge",
+      "category": "تحديات_جماعية",
+      "question": "خلال 60 ثانية، اكتشفوا ثلاثة أخطاء: موظف ترك حاسوبه مفتوحًا، وكلمة المرور على ورقة، وملف مواطن ظاهرًا على الشاشة.",
+      "facilitationMode": "small_group",
+      "suggestedDurationSeconds": 120,
+      "facilitatorTip": "الإجابات المرجعية: جلسة مفتوحة، كلمة مرور مكشوفة، بيانات مواطن ظاهرة.",
+      "followUpPrompt": "ما أول إجراء تصحيحي؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "أحسنتم؛ ناقشوا كيف يمكن تطبيق اقتراحكم في البلدية."
+    },
+    {
+      "id": "ice_d1_044",
+      "number": 44,
+      "type": "team_challenge",
+      "category": "تحديات_جماعية",
+      "question": "صمموا في دقيقة شعارًا من خمس كلمات يشجع موظفي البلدية على حماية المعلومات.",
+      "facilitationMode": "small_group",
+      "suggestedDurationSeconds": 120,
+      "facilitatorTip": "شجع الشعارات الإيجابية القصيرة، دون تقييم لغوي صارم.",
+      "followUpPrompt": "أين يمكن وضع الشعار في المقر؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "أحسنتم؛ ناقشوا كيف يمكن تطبيق اقتراحكم في البلدية."
+    },
+    {
+      "id": "ice_d1_045",
+      "number": 45,
+      "type": "team_challenge",
+      "category": "تحديات_جماعية",
+      "question": "اقترحوا ثلاث قواعد أمنية يستطيع أي موظف تطبيقها غدًا دون ميزانية.",
+      "facilitationMode": "small_group",
+      "suggestedDurationSeconds": 120,
+      "facilitatorTip": "انتظر قواعد عملية مثل قفل الشاشة والتحقق والإبلاغ.",
+      "followUpPrompt": "أي قاعدة تبدأون بها؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "أحسنتم؛ ناقشوا كيف يمكن تطبيق اقتراحكم في البلدية."
+    },
+    {
+      "id": "ice_d1_046",
+      "number": 46,
+      "type": "team_challenge",
+      "category": "تحديات_جماعية",
+      "question": "رتبوا أولوياتكم: مواطنون ينتظرون، نظام الحالة المدنية متعطل، ورسالة غريبة ظهرت. ما أول خطوتين إداريتين؟",
+      "facilitationMode": "small_group",
+      "suggestedDurationSeconds": 120,
+      "facilitatorTip": "ابحث عن الإبلاغ المنظم وحماية البيانات وإدارة انتظار المواطنين دون إصلاح عشوائي.",
+      "followUpPrompt": "من ينسق التواصل مع المواطنين؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "أحسنتم؛ ناقشوا كيف يمكن تطبيق اقتراحكم في البلدية."
+    },
+    {
+      "id": "ice_d1_047",
+      "number": 47,
+      "type": "team_challenge",
+      "category": "تحديات_جماعية",
+      "question": "ابتكروا جملة مهذبة لرفض مشاركة كلمة مرورك مع زميل يطلب المساعدة.",
+      "facilitationMode": "small_group",
+      "suggestedDurationSeconds": 120,
+      "facilitatorTip": "أكد أن الرفض لا يمنع تقديم مساعدة عبر الطرق المصرح بها.",
+      "followUpPrompt": "كيف تعرض المساعدة البديلة؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "أحسنتم؛ ناقشوا كيف يمكن تطبيق اقتراحكم في البلدية."
+    },
+    {
+      "id": "ice_d1_048",
+      "number": 48,
+      "type": "team_challenge",
+      "category": "تحديات_جماعية",
+      "question": "أمامكم رسالة تزعم أنها من الإدارة وتطلب ملف الموظفين خلال عشر دقائق. اذكروا ثلاثة أسئلة للتحقق.",
+      "facilitationMode": "small_group",
+      "suggestedDurationSeconds": 120,
+      "facilitatorTip": "توقع: من المرسل؟ هل الطلب ضمن الصلاحيات؟ ما القناة الرسمية؟",
+      "followUpPrompt": "كيف تتحققون دون الرد على الرسالة المشبوهة؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "أحسنتم؛ ناقشوا كيف يمكن تطبيق اقتراحكم في البلدية."
+    },
+    {
+      "id": "ice_d1_049",
+      "number": 49,
+      "type": "team_challenge",
+      "category": "تحديات_جماعية",
+      "question": "قسموا هذه المعلومات إلى ما يصلح للنشر وما يحتاج حماية: موعد استقبال المواطنين، رقم هوية مواطن، عنوان مكتب عمومي.",
+      "facilitationMode": "small_group",
+      "suggestedDurationSeconds": 120,
+      "facilitatorTip": "الموعد والعنوان العمومي قد يكونان قابلين للنشر بعد اعتماد؛ رقم الهوية بيانات شخصية.",
+      "followUpPrompt": "من يقرر النشر الرسمي؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "أحسنتم؛ ناقشوا كيف يمكن تطبيق اقتراحكم في البلدية."
+    },
+    {
+      "id": "ice_d1_050",
+      "number": 50,
+      "type": "team_challenge",
+      "category": "تحديات_جماعية",
+      "question": "اقترحوا ثلاث خطوات آمنة قبل مشاركة صورة من نشاط داخل البلدية.",
+      "facilitationMode": "small_group",
+      "suggestedDurationSeconds": 120,
+      "facilitatorTip": "توقع: فحص الخلفية، حماية خصوصية الأشخاص، موافقة الجهة المخولة.",
+      "followUpPrompt": "ماذا لو ظهر ملف إداري على الطاولة؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "أحسنتم؛ ناقشوا كيف يمكن تطبيق اقتراحكم في البلدية."
+    },
+    {
+      "id": "ice_d1_051",
+      "number": 51,
+      "type": "team_challenge",
+      "category": "تحديات_جماعية",
+      "question": "ضعوا قاعدة واحدة للتعامل مع روابط البريد غير المتوقعة، ثم اشرحوا سببها.",
+      "facilitationMode": "small_group",
+      "suggestedDurationSeconds": 120,
+      "facilitatorTip": "شجع التحقق عبر قناة مستقلة وعدم فتح الروابط المريبة.",
+      "followUpPrompt": "كيف تطبقونها تحت ضغط الوقت؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "أحسنتم؛ ناقشوا كيف يمكن تطبيق اقتراحكم في البلدية."
+    },
+    {
+      "id": "ice_d1_052",
+      "number": 52,
+      "type": "team_challenge",
+      "category": "تحديات_جماعية",
+      "question": "صمموا ردًا قصيرًا لمواطن يسأل عن شائعة تسريب بيانات البلدية دون وجود بيان رسمي.",
+      "facilitationMode": "small_group",
+      "suggestedDurationSeconds": 120,
+      "facilitatorTip": "شجع عدم التأكيد أو النفي غير المخول، وإحالة الاستفسار للقناة الرسمية.",
+      "followUpPrompt": "من يتولى التواصل المعتمد؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "أحسنتم؛ ناقشوا كيف يمكن تطبيق اقتراحكم في البلدية."
+    },
+    {
+      "id": "ice_d1_053",
+      "number": 53,
+      "type": "team_challenge",
+      "category": "تحديات_جماعية",
+      "question": "اقترحوا طريقتين لاستخدام الذكاء الاصطناعي في صياغة رسالة إدارية دون كشف بيانات شخصية.",
+      "facilitationMode": "small_group",
+      "suggestedDurationSeconds": 120,
+      "facilitatorTip": "توقع: مسودة عامة ببيانات افتراضية، ثم مراجعة بشرية واعتماد.",
+      "followUpPrompt": "كيف تتحققون من المعلومات القانونية؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "أحسنتم؛ ناقشوا كيف يمكن تطبيق اقتراحكم في البلدية."
+    },
+    {
+      "id": "ice_d1_054",
+      "number": 54,
+      "type": "team_challenge",
+      "category": "تحديات_جماعية",
+      "question": "ضعوا ثلاثة مؤشرات تجعلكم تشكون في مكالمة تدّعي أنها من الدعم التقني.",
+      "facilitationMode": "small_group",
+      "suggestedDurationSeconds": 120,
+      "facilitatorTip": "توقع: طلب رمز تحقق، ضغط شديد، طلب كلمة مرور أو إجراء غير معتاد.",
+      "followUpPrompt": "ما قناة التحقق المستقلة؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "أحسنتم؛ ناقشوا كيف يمكن تطبيق اقتراحكم في البلدية."
+    },
+    {
+      "id": "ice_d1_055",
+      "number": 55,
+      "type": "team_challenge",
+      "category": "تحديات_جماعية",
+      "question": "اخترعوا موقفًا قصيرًا يحدث في شباك الحالة المدنية، ثم اشرحوا كيف يمكن حماية خصوصية المواطن.",
+      "facilitationMode": "small_group",
+      "suggestedDurationSeconds": 120,
+      "facilitatorTip": "وجه الفرق نحو مواقف عامة بلا أسماء حقيقية.",
+      "followUpPrompt": "ما السلوك الذي يمكن تحسينه؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "أحسنتم؛ ناقشوا كيف يمكن تطبيق اقتراحكم في البلدية."
+    },
+    {
+      "id": "ice_d1_056",
+      "number": 56,
+      "type": "team_challenge",
+      "category": "تحديات_جماعية",
+      "question": "لديكم 90 ثانية لإقناع زميل بأن الأمن السيبراني ليس مسؤولية التقنيين وحدهم. قدموا حجتين.",
+      "facilitationMode": "small_group",
+      "suggestedDurationSeconds": 120,
+      "facilitatorTip": "توقع حججًا عن التعامل اليومي مع البيانات والتصيد والإبلاغ.",
+      "followUpPrompt": "ما مسؤولية كل موظف؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "أحسنتم؛ ناقشوا كيف يمكن تطبيق اقتراحكم في البلدية."
+    },
+    {
+      "id": "ice_d1_057",
+      "number": 57,
+      "type": "team_challenge",
+      "category": "تحديات_جماعية",
+      "question": "اكتبوا شفهيًا قاعدة من ثلاث خطوات عند العثور على USB مجهول في مقر البلدية.",
+      "facilitationMode": "small_group",
+      "suggestedDurationSeconds": 120,
+      "facilitatorTip": "توقع عدم تشغيله، تسليمه للجهة المختصة، وتوثيق مكان العثور عليه عند الحاجة.",
+      "followUpPrompt": "لماذا لا نجربه لمعرفة صاحبه؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "أحسنتم؛ ناقشوا كيف يمكن تطبيق اقتراحكم في البلدية."
+    },
+    {
+      "id": "ice_d1_058",
+      "number": 58,
+      "type": "team_challenge",
+      "category": "تحديات_جماعية",
+      "question": "صمموا سؤالين يجب طرحهما قبل تثبيت أداة ذكاء اصطناعي مجانية على حاسوب البلدية.",
+      "facilitationMode": "small_group",
+      "suggestedDurationSeconds": 120,
+      "facilitatorTip": "توقع: هل هي معتمدة؟ ما البيانات والصلاحيات التي تطلبها؟",
+      "followUpPrompt": "من يوافق على تثبيت البرامج؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "أحسنتم؛ ناقشوا كيف يمكن تطبيق اقتراحكم في البلدية."
+    },
+    {
+      "id": "ice_d1_059",
+      "number": 59,
+      "type": "team_challenge",
+      "category": "تحديات_جماعية",
+      "question": "اقترحوا رسالة توعوية من جملة واحدة تحذر من مشاركة رموز التحقق عبر الهاتف.",
+      "facilitationMode": "small_group",
+      "suggestedDurationSeconds": 120,
+      "facilitatorTip": "شجع الوضوح دون تخويف أو مصطلحات تقنية معقدة.",
+      "followUpPrompt": "أين يمكن نشر هذه الرسالة؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "أحسنتم؛ ناقشوا كيف يمكن تطبيق اقتراحكم في البلدية."
+    },
+    {
+      "id": "ice_d1_060",
+      "number": 60,
+      "type": "team_challenge",
+      "category": "تحديات_جماعية",
+      "question": "في دقيقة واحدة، حددوا سلوكًا واحدًا ستغيرونه بعد هذه الدورة، وكيف ستعرفون أنكم طبقتموه.",
+      "facilitationMode": "small_group",
+      "suggestedDurationSeconds": 120,
+      "facilitatorTip": "شجع التزامات صغيرة قابلة للملاحظة دون جمع أسماء أو إجابات.",
+      "followUpPrompt": "ما العائق المتوقع وكيف تتجاوزونه؟",
+      "passAllowed": true,
+      "points": 1,
+      "feedbackMessage": "أحسنتم؛ ناقشوا كيف يمكن تطبيق اقتراحكم في البلدية."
+    }
+  ]
+}
